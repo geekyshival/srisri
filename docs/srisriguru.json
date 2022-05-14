@@ -1873,28 +1873,7 @@ Robert Adams</p>"
 
 "feedparamahansa": [
 
-        {
-                "title":"Paramahansa Yogananda",
-                "name":"https://goo.gl/cLCnAu" ,
-                "youlink":"",
-                "image": "",
-                "status": ""
-             },
-    {
-                "title":"Paramahansa Yogananda",
-                "name":"https://goo.gl/cLCnAu" ,
-                "youlink":"",
-                "image": "",
-                "status": ""
-             }
-
-
-
-],
-
-"feedswamivivekananad": [
-
-          {
+         {
             "title":"Paramahansa Yogananda",
             "name":"" ,
             "youlink":"",
@@ -2145,6 +2124,13 @@ Robert Adams</p>"
 \n
 <p>&mdash; Paramahansa Yogananda</p>"
          }
+
+
+],
+
+"feedswamivivekananad": [
+
+        
 
 
 
